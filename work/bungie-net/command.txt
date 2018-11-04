@@ -1,0 +1,1 @@
+swagger-codegen generate -i openapi-2.json -l java -o bungie-net-sdk -c config.json
