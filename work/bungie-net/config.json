@@ -5,6 +5,6 @@
   "apiPackage":"uk.co.bluedust.api",
   "modelPackage":"uk.co.bluedust.model",
   "dateLibrary":"java8",
-  "artifactVersion":"1.0.4"
+  "artifactVersion":"1.0.5"
 
 }
